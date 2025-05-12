@@ -1,0 +1,108 @@
+{
+    "utils": {
+        "timeAgo": {
+            "year": {
+                "one": "{}년 전",
+                "few": "{}년 전",
+                "many": "{}년 전",
+                "other": "{}년 전"
+            },
+            "month": {
+                "one": "{}달 전",
+                "few": "{}달 전",
+                "many": "{}달 전",
+                "other": "{}달 전"
+            },
+            "day": {
+                "one": "{}일 전",
+                "few": "{}일 전",
+                "many": "{}일 전",
+                "other": "{}일 전"
+            },
+            "hour": {
+                "one": "{}시간 전",
+                "few": "{}시간 전",
+                "many": "{}시간 전",
+                "other": "{}시간 전"
+            },
+            "minute": {
+                "zero": "지금",
+                "one": "{}분 전",
+                "few": "{}분 전",
+                "many": "{}분 전",
+                "other": "{}분 전"
+            },
+            "now": "지금",
+            "other": "이전"
+        },
+        "ordinal": {
+            "one": "{}번째",
+            "two": "{}번째",
+            "few": "{}번째",
+            "other": "{}번째"
+        },
+        "permission": {
+            "title": {
+                "permission": "앱 사용을 위해 권한을 허용해주세요. 꼭 필요한 권한만 요청합니다.",
+                "noNetwork": "네트워크 연결에 실패했습니다.",
+                "invalidAppVersion": "앱 업데이트를 진행해주세요."
+            },
+            "text": {
+                "notification": "알림",
+                "notificationDesc": "대화 알림을 받을 수 있습니다.",
+                "media": "파일 접근",
+                "mediaDesc": "로컬 기기에 파일을 저장하거나 불러올 수 있습니다.",
+                "record": "녹화",
+                "recordDesc": "영상을 녹화할 수 있습니다.",
+                "audio": "오디오",
+                "audioDesc": "대화를 재생할 수 있습니다.",
+                "pleaseUpdateApp": "현재 앱 버전에서 지원하지 않는 기능입니다. 새로운 버전으로 업데이트해야 앱을 사용할 수 있습니다."
+            },
+            "button": {
+                "allow": "계속하기",
+                "update": "업데이트"
+            }
+        }
+    },
+    "dialog": {
+        "title": {
+            "exit": "앱 종료",
+            "leave": "페이지를 나가시겠습니까?",
+            "clear": "초기화"
+        },
+        "content": {
+            "exit": "앱을 종료하시겠습니까?",
+            "leave": "변경사항이 저장되지 않습니다. 계속하시겠습니까?",
+            "clear": "모든 데이터가 삭제됩니다. 계속하시겠습니까?"
+        },
+        "button": {
+            "close": "닫기",
+            "cancel": "취소",
+            "confirm": "확인",
+            "delete": "삭제",
+            "exitCancel": "취소",
+            "exitConfirm": "종료",
+            "leaveConfirm": "나가기"
+        }
+    },
+    "common": {
+        "button": {
+            "close": "닫기",
+            "cancel": "취소",
+            "save": "저장",
+            "ignore": "무시",
+            "view": "보기",
+            "retry": "재시도",
+            "exit": "종료"
+        },
+        "text": {
+            "error": "네트워크 오류",
+            "failToLoad": "데이터를 불러오는데 실패했습니다.",
+            "failToLoadExit": "데이터를 불러오는데 실패하여 앱을 종료합니다.",
+            "failToConnect": "인터넷 연결을 확인하고 다시 시도해주세요.",
+            "failToConnectServer": "서버와 연결되지 않았습니다. 재시도해주세요.",
+            "unknownErrorPleaseContact": "알 수 없는 에러가 발생했습니다. 고객센터에 문의해주세요.",
+            "errorCode": "에러 코드"
+        }
+    }
+}
